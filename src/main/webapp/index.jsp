@@ -1,4 +1,3 @@
-
 <%
 
     String redirectURL = request.getContextPath() + "/app?command=appointments-list";
